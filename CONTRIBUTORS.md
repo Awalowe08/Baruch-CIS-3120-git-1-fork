@@ -20,5 +20,6 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+   - **Kenneth Lorovico** (GitHub: kennethlorovico31) | Rush Hour
 
 
