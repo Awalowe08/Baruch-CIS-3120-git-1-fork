@@ -20,5 +20,5 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
-
+- **John Garcia** (GitHub: jgarcia1127) | [No Country for Old Men]
 
