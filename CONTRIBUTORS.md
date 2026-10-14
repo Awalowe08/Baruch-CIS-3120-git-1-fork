@@ -20,5 +20,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Mekhi Carter** (GitHub: Cmekhi) | Big Hero 6
+
 
 
