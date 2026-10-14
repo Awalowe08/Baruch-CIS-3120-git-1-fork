@@ -13,12 +13,12 @@ This file lists all students contributing Homework 1
 ---
 
 ### Format:
-**[Diarra Ndiaye]** (GitHub: [diarrandiaye0021-pixel]) | [Cruella]
+**[Mame Diarra Ndiaye]** (GitHub: [diarrandiaye0021-pixel]) | [Cruella]
 
 ### Example:
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
-
+**Mame Diarra Ndiaye** (GitHub: diarrandiaye0021-pixel) | Cruella
 
