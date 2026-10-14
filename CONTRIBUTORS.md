@@ -13,7 +13,7 @@ This file lists all students contributing Homework 1
 ---
 
 ### Format:
-**[Diarra Ndiaye]** (GitHub: [diarrandiaye0021-pixel]) | [Cruella]
+**[Your Full Name]** (GitHub: [Your GitHub Username]) | [Your Favorite Movie]
 
 ### Example:
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
