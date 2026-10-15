@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Diyora Alimukhamedova** (GitHub: dior44) | Absolutely Anything
 - **Etson Peralta** (GitHub: etson13) | SCREAM
 **Eamon Ward** (GitHub: eamonward20) | Texas Chainsaw Massacre
 - **Jonathan Demas** (GitHub: m6ydr7ktzf-byte) | The Equalizer
