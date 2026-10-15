@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+Meriam Hani (GitHub: meriamhani | The Maze Runner
 -**Brian Li** (GitHub: brianli108) | Steins ; Gate
 **Jia Jun Chen** (GitHub: seashellsbyseas) | Spider Man: Into the Spider-Verse
 - **Fazliddin B** (GitHub: 2005fazik-sys) | Good Will Hunting
