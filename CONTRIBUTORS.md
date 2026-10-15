@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Eamon Ward** (GitHub: eamonward20) | Texas Chainsaw Massacre
 - **Jonathan Demas** (GitHub: m6ydr7ktzf-byte) | The Equalizer
 **Zoe Delgado** (GitHub: zoedelgadobar-bit) | Me Before You
 **Tuhin Sarker** (GitHub: R1pt14e) | Across the Spider-Verse
