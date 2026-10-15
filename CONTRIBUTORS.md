@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Tuhin Sarker** (GitHub: R1pt14e) | Across the Spider-Verse
 Meriam Hani (GitHub: meriamhani | The Maze Runner
 -**Brian Li** (GitHub: brianli108) | Steins ; Gate
 **Jia Jun Chen** (GitHub: seashellsbyseas) | Spider Man: Into the Spider-Verse
