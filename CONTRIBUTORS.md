@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Kenneth Lorovico** (GitHub: kennethlorovico31) | Rush Hour
 **Joshua Michael Collins** (GitHub: joscollins11-png) | Spider-Man 2 (2004)
 **Diyora Alimukhamedova** (GitHub: dior44) | Absolutely Anything
 - **Etson Peralta** (GitHub: etson13) | SCREAM
