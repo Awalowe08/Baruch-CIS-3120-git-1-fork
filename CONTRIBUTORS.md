@@ -13,7 +13,6 @@ This file lists all students contributing Homework 1
 ---
 
 ### Format:
-**[Your Full Name]** (GitHub: [Your GitHub Username]) | [Your Favorite Movie]
 
 ### Example:
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
@@ -21,4 +20,21 @@ This file lists all students contributing Homework 1
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
 -**Brian Li** (GitHub: brianli108) | Steins ; Gate
-
+**Jia Jun Chen** (GitHub: seashellsbyseas) | Spider Man: Into the Spider-Verse
+- **Fazliddin B** (GitHub: 2005fazik-sys) | Good Will Hunting
+- **Gilbert Asamoah** (GitHub: gilbert-233) | Beast of no Nation 
+**Stacy Chen** (GitHub: schen620) | Project Hail Mary
+**Breanna Mawugbe** (GitHub: mawugbeb) | Parent Trap
+**Sewa Sonubi** (Github: Sewasonubi) | The Odyssey!
+- **[Michael Anthony Rodriguez]** (GitHub: [Michael22424]) | [Mononoke the Movie: Chapter III - The Curse of the Serpent]
+**David Romero** (GitHub: DayvidRomero) | We Made A Beautiful Bouquet 
+**Kelsy Lopez** (GitHub: kelsylopez135-boop) | V for Vendetta
+- **Syed Muhtadee** (GitHub: Venator07) | Harry Potter and the Prisoner of Azkaban
+- **Frank Migliore** (GitHub: FrankMigliore) | Paths of Glory
+**Tina Ye** (GitHub: tytinaye) | Howl's Moving Castle
+**Johann Cabrera** ((GitHub:ljaycab) | Ready Player One!
+**Hoang Son Nguyen** (GitHub: sonhnguyen273) | The Lord of the Rings: The Two Towers
+- **Royeed Wardak** (GitHub: Royeed) | Interstellar
+- **Taecvin Ni** (GitHub: 8oop) | Dune Part 2
+- **ISHWOR SHRESTHA** (GitHub: ishworshrestha703-code) | The Last Airbender
+**Tyler Petty** (GitHub: TPetty68) | Shutter Island
