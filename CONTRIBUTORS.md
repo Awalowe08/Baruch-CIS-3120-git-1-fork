@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Fazliddin B** (GitHub: 2005fazik-sys) | Good Will Hunting
 - **Gilbert Asamoah** (GitHub: gilbert-233) | Beast of no Nation 
 **Stacy Chen** (GitHub: schen620) | Project Hail Mary
 **Breanna Mawugbe** (GitHub: mawugbeb) | Parent Trap
