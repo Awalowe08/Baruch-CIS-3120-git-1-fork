@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Liam McDonald** (GitHub: liam-mcd7) | Good Will Hunting
 **Patrick Boamah** (GitHub: Patrick-Boamah) | Dune: Part 2
 Jacob Tsisin jaket405 Free Birds
 - **Mohammad Haider** (GitHub: MHaider752) | Inception
