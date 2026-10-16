@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Mame Diarra Ndiaye** (GitHub: diarrandiaye0021-pixel) | Cruella
 - **Bikranta Saikia** (GitHub: Bikranta149) | Avengers Endgame
 - **Samuel Limachi** (GitHub: Samlima-cyber) | GANTZ:0
 **Mekhi Carter** (GitHub: Cmekhi) | Big Hero 6
