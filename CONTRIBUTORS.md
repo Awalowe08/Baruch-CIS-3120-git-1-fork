@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Fahmida Joya** (GitHub: fahmida777) | Kabhi Khushi Kabhie Gham
 - **Matthew Kim** (GitHub: mkim090704) | Spiderman: Brand New Day
 - **Hailin Chen** (GitHub: Mikubigfufu) | Logan
 - **Brandon Salazar** (GitHub: BrandonSalazarNY) | The Dark Knight
