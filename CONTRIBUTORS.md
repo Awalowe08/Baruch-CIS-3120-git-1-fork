@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Mekhi Carter** (GitHub: Cmekhi) | Big Hero 6
 **Angelina Yunen** (GitHub: yunenangelina-jpg) | Florida Project
 **Nicol Rosario** (GitHub: nicolrosaro03-wq) | Cars
 - **John Garcia** (GitHub: jgarcia1127) | [No Country for Old Men]
