@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Israt Jahan Taha** (Github: ishratjahan4315-lab) | Iron Man
 - **Mauricio Gerardo Trevino Saldana** (GitHub: mauriciotrevinosa-cell) | Inception
 - **Ishaan Lingayat** (GitHub: ilingayat) | Moneyball
 - **Fahmida Joya** (GitHub: fahmida777) | Kabhi Khushi Kabhie Gham
