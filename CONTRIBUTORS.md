@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **John Garcia** (GitHub: jgarcia1127) | [No Country for Old Men]
 - **Elon Vllahiu** (GitHub: evllahiu) | War dogs
 - **Liam McDonald** (GitHub: liam-mcd7) | Good Will Hunting
 **Patrick Boamah** (GitHub: Patrick-Boamah) | Dune: Part 2
