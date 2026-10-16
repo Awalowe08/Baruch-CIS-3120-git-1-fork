@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+Jacob Tsisin jaket405 Free Birds
 - **Mohammad Haider** (GitHub: MHaider752) | Inception
 **Jia Ni Wu** (GitHub: JiaNiWuGH) | Your Name
 - **Kenneth Lorovico** (GitHub: kennethlorovico31) | Rush Hour
