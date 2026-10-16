@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Angelina Yunen** (GitHub: yunenangelina-jpg) | Florida Project
 **Nicol Rosario** (GitHub: nicolrosaro03-wq) | Cars
 - **John Garcia** (GitHub: jgarcia1127) | [No Country for Old Men]
 - **Elon Vllahiu** (GitHub: evllahiu) | War dogs
